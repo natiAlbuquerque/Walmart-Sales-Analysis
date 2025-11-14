@@ -12,7 +12,8 @@ Este repositório contém o projeto desenvolvido para a disciplina **Projeto Apl
 - Python (Pandas, Matplotlib, Seaborn)
 - Google Colab
 - GitHub
-
+  
+Storytelling:
 O projeto Walmart Sales Analysis teve início com a necessidade de compreender os fatores que impactam as vendas em diferentes períodos e locais.
 
 Durante a análise exploratória (EDA), foram identificados padrões sazonais, variações regionais e correlações entre variáveis como feriados, temperatura e volume de vendas.
